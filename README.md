@@ -11,7 +11,7 @@ Make sure you have Ollama installed on your machine.
 
 1. Clone this repository to your Mac:
 ```bash
-git clone https://github.com
+git clone https://github.com/Ravanoth/StonkAI
 cd StonkAI
 ```
 
