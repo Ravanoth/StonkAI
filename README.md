@@ -33,7 +33,4 @@ Note on Name: Despite the name "StonkAI", this is a general-purpose assistant fo
 ## Prerequisites
 Make sure you have Ollama installed on your machine.
 
-## Build and Run Instructions
-
-1. Clone this repository to your Mac:
 
