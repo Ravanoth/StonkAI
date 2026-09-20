@@ -2,7 +2,7 @@
 
 Welcome to StonkAI, an open-source, local general-purpose AI assistant built using Ollama and the Llama 3.1 architecture.
 
-Note on Name: Despite the name "StonkAI", this is a general-purpose assistant for coding, writing, and everyday tasks. It is not a financial advisor or stock market trading assistant.
+*Note on Name: Despite the name "StonkAI", this is a general-purpose assistant for coding, writing, and everyday tasks. It is not a financial advisor or stock market trading assistant.*
 
 ## Prerequisites
 Make sure you have Ollama installed on your machine.
@@ -24,9 +24,3 @@ ollama create stonkai -f ./Modelfile
 ```bash
 ollama run stonkai
 ```
-# StonkAI
-
-Welcome to StonkAI, an open-source, local general-purpose AI assistant built using Ollama and the Llama 3.1 architecture.
-
-*Note on Name: Despite the name "StonkAI", this is a general-purpose assistant for coding, writing, and everyday tasks. It is not a financial advisor or stock market trading assistant.*
-
